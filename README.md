@@ -68,8 +68,6 @@ Minha conta no GitHub é **recente** e estou construindo meu perfil agora. Ainda
 
 ⭐ Fique à vontade para acompanhar minha evolução e deixar dicas nas issues!
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardo-m-muller/eduardo-m-muller/output/github-snake-dark.svg" />
@@ -77,3 +75,5 @@ Minha conta no GitHub é **recente** e estou construindo meu perfil agora. Ainda
     <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/eduardo-m-muller/eduardo-m-muller/output/github-snake.svg" />
   </picture>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
