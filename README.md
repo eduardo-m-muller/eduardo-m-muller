@@ -7,14 +7,6 @@
   <img width="41%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=eduardo-m-muller&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Linguagens mais usadas"/>
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardo-m-muller/eduardo-m-muller/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardo-m-muller/eduardo-m-muller/output/github-snake.svg" />
-    <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/eduardo-m-muller/eduardo-m-muller/output/github-snake.svg" />
-  </picture>
-</div>
-
 <hr>
 
 ## Olá, eu sou o Eduardo 👋
@@ -77,3 +69,11 @@ Minha conta no GitHub é **recente** e estou construindo meu perfil agora. Ainda
 ⭐ Fique à vontade para acompanhar minha evolução e deixar dicas nas issues!
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardo-m-muller/eduardo-m-muller/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardo-m-muller/eduardo-m-muller/output/github-snake.svg" />
+    <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/eduardo-m-muller/eduardo-m-muller/output/github-snake.svg" />
+  </picture>
+</div>
