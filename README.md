@@ -10,7 +10,6 @@
   Ondas: header.svg abre, onda-animada.svg separa os blocos, onda-linha.svg separa projetos, rodape.svg fecha
 -->
 
-<img src="https://raw.githubusercontent.com/eduardo-m-muller/eduardo-m-muller/main/assets/onda-topo.svg" width="100%" alt="">
 
 <div align="center">
 
