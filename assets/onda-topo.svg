@@ -1,0 +1,46 @@
+<svg width="1600" height="260" viewBox="0 0 1600 260" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b0710"/>
+    <stop offset="0.5" stop-color="#1a0f26"/>
+    <stop offset="1" stop-color="#0b0710"/>
+  </linearGradient>
+  <linearGradient id="wave1" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#9d6bff"/>
+    <stop offset="0.5" stop-color="#ffb7c5"/>
+    <stop offset="1" stop-color="#9d6bff"/>
+  </linearGradient>
+  <linearGradient id="wave2" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#2d1547"/>
+    <stop offset="0.5" stop-color="#9d6bff"/>
+    <stop offset="1" stop-color="#2d1547"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="8" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect width="1600" height="260" fill="url(#bg)"/>
+
+<path d="M0 135 C180 45 330 215 520 125 S850 55 1040 135 S1370 215 1600 105 L1600 260 L0 260Z"
+      fill="#1a0f26" opacity=".9"/>
+
+<path d="M0 120 C190 25 340 205 535 112 S865 35 1055 122 S1380 205 1600 92"
+      fill="none" stroke="#9d6bff" stroke-width="2" opacity=".35"/>
+
+<path d="M0 145 C180 55 330 225 520 135 S850 65 1040 145 S1370 225 1600 115"
+      fill="none" stroke="#ffb7c5" stroke-width="3" opacity=".7" filter="url(#glow)"/>
+
+<path d="M0 165 C180 75 350 245 545 152 S870 85 1060 160 S1390 235 1600 132"
+      fill="none" stroke="url(#wave1)" stroke-width="2" opacity=".8"/>
+
+<path d="M0 185 C180 95 350 255 550 172 S880 105 1070 180 S1400 250 1600 150"
+      fill="none" stroke="url(#wave2)" stroke-width="5" opacity=".35"/>
+
+<g fill="#fde7ee" opacity=".55">
+  <circle cx="180" cy="96" r="1.5"/><circle cx="430" cy="150" r="1.2"/>
+  <circle cx="720" cy="82" r="1.4"/><circle cx="1010" cy="128" r="1.3"/>
+  <circle cx="1280" cy="165" r="1.2"/><circle cx="1480" cy="108" r="1.5"/>
+</g>
+</svg>
